@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Martes/Martes.iml" filepath="$PROJECT_DIR$/Martes/Martes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Viernes/Viernes.iml" filepath="$PROJECT_DIR$/Viernes/Viernes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/informatica-gaes.iml" filepath="$PROJECT_DIR$/.idea/informatica-gaes.iml" />
+    </modules>
+  </component>
+</project>
